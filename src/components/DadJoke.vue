@@ -1,6 +1,10 @@
 <template>
   <main role="main" aria-labelledby="Dad joke helper">
-    <div class="container container--main">
+    <div v-if="$screen.width < 700" class="card warning">Hey there, looks like you're on mobile!<br><br>
+        The game is not optimised for small devises yet.<br><br>We're working on it but in the meantime,
+        feel free to come back on a devise with a larger screen.
+        </div>
+    <div v-else class="container container--main">
       <div v-if="showInstructions">
         <h1>Dad Joke Helper</h1>
         <p class="subheading">
@@ -126,6 +130,13 @@ export default {
   animation: fade-in 1.2s cubic-bezier(0.39, 0.575, 0.565, 1) both;
 }
 
+.warning {
+  width: 80%;
+  font-size: calc(1.2rem * var(--text-multiplier));
+  letter-spacing: 0.2rem;
+  line-height: 1.8;
+}
+
 @-webkit-keyframes fade-in {
   0% {
     opacity: 0;
@@ -159,7 +170,7 @@ export default {
 
 @media screen and (min-width: 75rem) {
   .image--wrapper {
-    width: 20rem;
+    width: 19rem;
     height: 24rem;
   }
 }
