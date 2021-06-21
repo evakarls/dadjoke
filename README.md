@@ -22,9 +22,9 @@ Not yet but hopefully soon! ❤️
 
 ## Screenshots
 <img width="1767" alt="Screenshot 2021-06-20 at 17 04 24" src="https://user-images.githubusercontent.com/33524936/122680506-c5272d00-d1ef-11eb-96bd-1f3b67926c1d.png">
-<img width="1770" alt="Screenshot 2021-06-20 at 17 04 07" src="https://user-images.githubusercontent.com/33524936/122680509-c6f0f080-d1ef-11eb-8be1-63e488bd7702.png">
-<img width="1757" alt="Screenshot 2021-06-20 at 17 03 41" src="https://user-images.githubusercontent.com/33524936/122680512-c8bab400-d1ef-11eb-9ddd-50325dba5ee6.png">
-
+<img width="1768" alt="Screenshot 2021-06-21 at 20 00 12" src="https://user-images.githubusercontent.com/33524936/122807469-e78e7880-d2cb-11eb-99b8-8053b9566fdd.png">
+<img width="1764" alt="Screenshot 2021-06-21 at 20 01 08" src="https://user-images.githubusercontent.com/33524936/122807484-ec532c80-d2cb-11eb-8117-57b3e29a7049.png">
+<img width="1445" alt="Screenshot 2021-06-21 at 20 01 41" src="https://user-images.githubusercontent.com/33524936/122807507-f2490d80-d2cb-11eb-8361-2c33250e6079.png">
 
 ## Lessons learned & future improvements 
 
