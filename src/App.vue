@@ -36,7 +36,6 @@ main {
 
 p {
   font-size: calc(0.6rem * var(--text-multiplier));
-  color: var(--text-blue);
   letter-spacing: 0.1rem;
   line-height: 1.6;
 }
@@ -51,14 +50,12 @@ h1 {
 
 h2 {
   font-size: calc(1.2rem * var(--text-multiplier));
-  color: var(--text-blue);
   font-weight: bold;
 }
 
 h3 {
-  font-size: calc(1rem * var(--text-multiplier));
-  color: var(--text-blue);
-  margin-bottom: 1.2rem;
+  font-size: calc(0.9rem * var(--text-multiplier));
+  margin-bottom: 0.1rem;
 }
 
 button {
@@ -84,6 +81,8 @@ button:hover {
   width: 100vw;
   padding: 2rem;
   font-family: "Rubik", sans-serif;
+  color: var(--text-blue);
+
 }
 
 .container {
